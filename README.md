@@ -11,3 +11,8 @@ This program checks whether the email has been used by anyone on Twitter or not
 
 # صورة البرنامج
 ![alt text](https://i.imgur.com/x6IJD5T.png)
+
+# Programed by - برمجة
+Mohammad Akour
+محمد عكور
+https://akour.me
